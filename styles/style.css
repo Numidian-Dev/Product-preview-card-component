@@ -21,7 +21,7 @@ body {
 .container-card {
     background-color: white;
     width: 47%;
-    height: 55%;
+    height: 60%;
     border-radius: 20px;
     display: flex;
 }
