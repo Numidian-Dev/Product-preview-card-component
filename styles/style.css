@@ -20,8 +20,8 @@ body {
 
 .container-card {
     background-color: white;
-    width: 40%;
-    height: 60%;
+    width: 47%;
+    height: 50%;
     border-radius: 20px;
     display: flex;
 }
@@ -78,7 +78,7 @@ h1 {
     font-weight: 500;
     line-height: 1.5;
 
-    width: 80%;
+    width: 70%;
     margin: 25px 0px 25px 25px;
 }
 
