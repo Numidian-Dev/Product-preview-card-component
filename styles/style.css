@@ -108,11 +108,19 @@ button {
     margin: 0 auto;
     border-radius: 10px;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button svg {
+    margin-right: 10px;
 }
 
 button:hover {
     background-color: hsl(159, 34%, 27%);
 }
+
 .attribution {
     margin-top: 20px;
     font-size: 11px;
